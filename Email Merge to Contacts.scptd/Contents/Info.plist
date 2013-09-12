@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>bundle.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ScriptEditor.id.Email-Merge-to-Contacts</string>
+	<key>WindowState</key>
+	<dict>
+		<key>dividerCollapsed</key>
+		<true/>
+		<key>eventLogLevel</key>
+		<integer>-1</integer>
+		<key>name</key>
+		<string>ScriptWindowState</string>
+		<key>positionOfDivider</key>
+		<real>412</real>
+		<key>savedFrame</key>
+		<string>113 104 1307 774 0 0 1440 878 </string>
+		<key>selectedTabView</key>
+		<string>event log</string>
+	</dict>
+</dict>
+</plist>
